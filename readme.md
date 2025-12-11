@@ -1,3 +1,7 @@
+今日も食べるますか？
+日本語がわべれますか？
+いつもめちゃめちゃ美味しいです。
+
 # StudyQuest iOS (SwiftUI)
 
 This Swift Package hosts the StudyQuest offline-first iOS SwiftUI experience with liquid glass visuals, timer/tasks/rewards parity to the web, analytics, leaderboard, and theme store.
